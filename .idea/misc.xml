@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/activity_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/details_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/dropdown_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/headers_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Intern_Task/app/src/main/res/layout/new_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
